@@ -1,8 +1,8 @@
 import { Redis } from '@upstash/redis'
 
 const redis = new Redis({
-  url: 'https://fitting-griffon-52566.upstash.io',
-  token: 'Ac1WAAIncDFkMzk1Yjc5Yjk1Yjk0ZDBiOTZmMWRiOWQ0MGM2MWQwMXAxNTI1NjY',
+  url: 'https://dear-hermit-50868.upstash.io',
+  token: 'Aca0AAIncDExNGRiYzIzNmFmZTE0Nzg2ODc4ZTIwNjQyNTM5YjJjOHAxNTA4Njg',
 })
 
 const countryList = [
