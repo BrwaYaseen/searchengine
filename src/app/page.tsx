@@ -26,10 +26,10 @@ export default function Home() {
     <main className=" h-screen w-screen grainy">
       <div className=" flex flex-col gap-6 items-center pt-32 duration-500
        animate-in animate fade-in-5 slide-in-from-bottom-3">
-        <h1 className=" text-5xl tracking-tight font-bold"> ⚡ Lightening Speed Search</h1>
+        <h1 className=" text-5xl tracking-tight font-bold">Search Fucntionality</h1>
         <p className=" text-zinc-600 text-lg max-w-prose text-center">
-          Very fast search functionality built with Hono, Next, and Cloudflare
-          <br /> Search for country name below and get results almost instantly
+          Search functionality built with Hono, Next, and Cloudflare
+          <br /> Search for country name below and get results
           </p>
 
           <div className=" max-w-md w-full">
