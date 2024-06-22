@@ -120,7 +120,6 @@ const countryList = [
     'Japan',
     'Jersey',
     'Jordan',
-    'Kurdistan',
     'Kazakhstan',
     'Kenya',
     'Kiribati',
